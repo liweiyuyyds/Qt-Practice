@@ -1,0 +1,14 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1928
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 192829336
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
+QMAKE_CXX.INCDIRS = \
+    E:\\代码相关软件\\VS2019\\Visual_Studio_IDE\\VC\\Tools\\MSVC\\14.36.32532\\include \
+    E:\\代码相关软件\\VS2019\\Visual_Studio_IDE\\VC\\Tools\\MSVC\\14.36.32532\\ATLMFC\\include \
+    E:\\代码相关软件\\VS2019\\Visual_Studio_IDE\\VC\\Auxiliary\\VS\\include
+QMAKE_CXX.LIBDIRS = \
+    E:\\代码相关软件\\VS2019\\Visual_Studio_IDE\\VC\\Tools\\MSVC\\14.36.32532\\ATLMFC\\lib\\x64 \
+    E:\\代码相关软件\\VS2019\\Visual_Studio_IDE\\VC\\Tools\\MSVC\\14.36.32532\\lib\\x64
